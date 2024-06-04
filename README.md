@@ -1,4 +1,4 @@
-You can run the program using -python BBTN.py
-You can analize how the program works using Analisys.ipnb
-The dataset is BBTN_SIMU2.xlsx
-The model is lrsaham2.pkl
+- You can run the program using -python BBTN.py <br>
+- You can analize how the program works using Analisys.ipnb <br>
+- The dataset is BBTN_SIMU2.xlsx <br>
+- The model is lrsaham2.pkl <br>
